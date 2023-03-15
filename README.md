@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Md.Shakiful Islam Khan
 - 👀 Interested in : Web-Development , Machine Learning , Natural Language Processing, Image Processing
 - :mechanical_arm: My Expertise :``HTML`` , ``CSS``,``SASS``,``Bootstrap``,``JavaScript``,``PHP``,``Laravel``,``MySQL``
-- 🌱 Currently learning : ~~JavaScript~~,~~PHP~~,~~Laravel~~,Django,Firebase
+- 🌱 Currently learning : ~~JavaScript~~,~~PHP~~,~~Laravel~~,Django,Firebase,React
 - 📫 How to reach me : shakifulkhan@gmail.com , md.shakiful.islam.khan@g.bracu.ac.bd
 - :envelope: Ask Me About My Work ...
 
